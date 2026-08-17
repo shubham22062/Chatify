@@ -10,6 +10,7 @@ function App() {
   return (
     <>
       <h1>This is my interface of chatify</h1>
+      <input type='text' placeholder='write the name frist'/>
     </>
   )
 }
