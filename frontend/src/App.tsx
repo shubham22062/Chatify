@@ -11,6 +11,8 @@ function App() {
     <>
       <h1>This is my interface of chatify</h1>
       <input type='text' placeholder='write the name frist' className='bg-red-500'/>
+      <input type='text' placeholder='write the name frist' className='bg-red-500'/>
+      <button className='rounded-full bg-green-900'>Send</button>
     </>
   )
 }
